@@ -1,2 +1,5 @@
-# 2024cihuyy
-My to do list 2024
+My to do list learn coding 2024
+- Laravel
+- Reach JS
+- Dart
+- Fluter
